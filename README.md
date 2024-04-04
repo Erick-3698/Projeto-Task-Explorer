@@ -1,4 +1,4 @@
-# pcc_sample_2023_02
+# pcc_Task_Explorer
 
 Projeto de exemplo criado e disponibilizado pelos professores de LV-II e DIWEB para as turmas do módulo 3 de TI.
 

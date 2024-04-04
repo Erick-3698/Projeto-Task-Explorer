@@ -4,13 +4,12 @@ Projeto de exemplo criado e disponibilizado pelos professores de LV-II e DIWEB p
 
 ## Escopo, pré-requisitos e objetivo do projeto
 
-O objetivo geral do projeto é um site que exibe informações fictícias sobre cursos e artigos de tecnologia.
-Esse projeto possui perfis de acesso ao sistema. Onde cada um deles permite executar ações específicas sobre suas funcionalidades.
+Desenvolver um sistema web que ajude empresas e indivíduos a planejar metas a serem cumpridas, promovendo a conscientização acerca da saúde mental envolvida no ambiente de trabalho.
 
 ### Funcionalidades ou requisítos
 
-- CRUD de perfis
-- CRUD de usuários
-- CRUD de categorias
-- CRUD de artigos
-- CRUD de avaliação dos artigos
+ -CRUD Módulo cadastro de Usuários;
+- Monitorar tarefas e projetos;
+- Criar quadros, cartões e listas com checklists;
+- Categorizar tarefas por nível de prioridade;
+- CRUD Atribuir tarefas aos membros da equipe;

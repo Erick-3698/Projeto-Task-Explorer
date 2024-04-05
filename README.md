@@ -1,6 +1,7 @@
 # pcc_Task_Explorer
 
-Projeto de exemplo criado e disponibilizado pelos professores de LV-II e DIWEB para as turmas do módulo 3 de TI.
+Projeto de Conclusão de Curso - ETC
+Sistema de gerenciamento de tarefas.
 
 ## Escopo, pré-requisitos e objetivo do projeto
 

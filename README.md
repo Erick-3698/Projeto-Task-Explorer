@@ -1,7 +1,7 @@
 # pcc_Task_Explorer
 
  Projeto de Conclusão de Curso - ETC
- Sistema de gerenciamento de tarefas.
+ - Sistema de gerenciamento de tarefas.
 
 ## Escopo, pré-requisitos e objetivo do projeto
 
